@@ -55,6 +55,7 @@
 - 安装包大小：3.64 MB
 - 许可证：MIT License
 - 可用性：取决于系统WebView内核版本
+- 语言：html与andlua
 
 ---
 
