@@ -1,0 +1,46 @@
+--名称
+appname="SU音乐"
+--版本号
+appver="1.63.1"
+--版本
+appcode="1631"
+--SDK
+appsdk="24"
+--包名
+packagename="com.sumc.app"
+--调试模式
+debugmode=false
+--应用权限
+user_permission={
+  "ACCESS_MEDIA_LOCATION",
+  "ACCESS_NETWORK_STATE",
+  "ACCESS_WIFI_STATE",
+  "BATTERY_STATS",
+  "BLUETOOTH",
+  "BLUETOOTH_ADMIN",
+  "BLUETOOTH_CONNECT",
+  "CHANGE_NETWORK_STATE",
+  "CHANGE_WIFI_STATE",
+  "CLEAR_APP_CACHE",
+  "FOREGROUND_SERVICE",
+  "GET_TASKS",
+  "INTERNET",
+  "POST_NOTIFICATIONS",
+  "READ_EXTERNAL_STORAGE",
+  "READ_FRAME_BUFFER",
+  "READ_LOGS",
+  "READ_MEDIA_AUDIO",
+  "READ_MEDIA_IMAGES",
+  "READ_MEDIA_VIDEO",
+  "READ_PHONE_STATE",
+  "REQUEST_INSTALL_PACKAGES",
+  "SYSTEM_ALERT_WINDOW",
+  "VIBRATE",
+  "WAKE_LOCK",
+  "WRITE_EXTERNAL_STORAGE",
+  "WRITE_SMS",
+}
+--跳过编译
+skip_compilation={
+
+}
